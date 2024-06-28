@@ -1,0 +1,21 @@
+{
+  "name": "MOVA Coin",
+  "logoURI": "URL של הלוגו שהעלית",
+  "keywords": ["cryptocurrency", "defi", "ethereum"],
+  "timestamp": "2024-06-29T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x5055c317f7343bb8819314b23c845d97471007c5",
+      "name": "MOVA Coin",
+      "symbol": "MOV",
+      "decimals": 18,
+      "logoURI": "URL של הלוגו שהעלית"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
